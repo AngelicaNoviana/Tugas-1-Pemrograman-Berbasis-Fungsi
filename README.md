@@ -2,4 +2,4 @@
 Nama : Angelica Noviana
 NIM : 121450064
 Prodi : Sains Data
-Kleas : RB
+Kelas : RB
